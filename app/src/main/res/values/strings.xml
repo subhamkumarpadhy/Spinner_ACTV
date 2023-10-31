@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="country">Name of Asian Countries</string>
+    <string name="Typing">Type here…</string>
+</resources>
